@@ -1,0 +1,32 @@
+
+◆Bullets：基本の弾の動き
+　├AimBullets     ：自機に向かって直線的に飛んでくる弾
+　├NormalBullets  ：Inspectorで設定した方向に飛ぶ弾　三角関数で言うと、角度=θのとき原点から斜辺の上を進んでいくイメージ
+　　　　　　　　　　　Tagが『BigBullet』のものにぶつかったとき移動方向が反転　『Mirror』のものにぶつかったとき自機に向かって飛ぶようになる
+　└TrackingBullets：自機を追尾する弾
+
+
+◆BulletsCreate：上記の『Bullets』を生成するScript 細かい使用方法はEnemySampleを参照
+
+・AimBulletsCreate     ：AimBulletsを生成　生成数・クールタイムが変更可能
+
+・NormalBulletsCreate  ：NormalBulletsを生成　生成時間・クールタイムに加え、射出方向・多方向に飛ばす場合は方向数・多方向での射出方向の変更ができる
+　　　                   多方向にする場合は射出方向は無視される 親オブジェクトのrotationに応じて角度が調整される
+						 一定時間生成し続けるのではなく、指定弾数だけ生成する場合はisNumをtrueにして、bulletNumを設定する
+
+・TrackingBulletsCreate：TrackingBulletsを生成　生成数・クールタイムに加え、追尾時間の変更ができる
+
+・LinerBulletCreate    ：常にプレイヤーに向かってライン状のNormalBulletsを生成
+
+・RandomBulletCreate   ：プレイヤーに向かって、Angle度の間にランダムな弾を生成　
+
+・BendBulletCreate     ：ベジェ曲線によって弧を描く弾を生成　RelayAjustがベジェ曲線の中継地点の位置、TargetAjustがベジェ曲線の到達位置
+　　　　　　　　　　　　　速度は数値が高いほど遅くなるので注意
+
+・GathreBulletCreate   :画面外から敵の位置に集合していく弾を生成
+
+・Hikkaki　　　　　　　：指定した座標から弾を生成　現状ではWorld座標で生成する　ステージ２/フェーズ２用
+
+・ColumnBulletCreate　 ：縦列に弾を生成　角度の変更により横列にも対応できる　ステージ１/ボス戦/フェーズ１用
+
+・TreeCreate　　　　　 ：樹状に弾を生成

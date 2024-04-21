@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10c6bae88e9bfcd429ed97e9cefbf4dd, type: 3}
+  m_Name: EnemyParameter
+  m_EditorClassIdentifier: 
+  stage:
+  - stageNum: 1
+    easy:
+      enemy:
+      - enemyID: Enemy1
+        atk: 50
+      - enemyID: Enemy2
+        atk: 60
+    normal:
+      enemy:
+      - enemyID: Enemy1
+        atk: 100
+      - enemyID: Enemy2
+        atk: 110
+    hard:
+      enemy:
+      - enemyID: Enemy1
+        atk: 150
+      - enemyID: Enemy2
+        atk: 160
+    galaxy:
+      enemy:
+      - enemyID: Enemy1
+        atk: 200
+      - enemyID: Enemy2
+        atk: 210
+    boss:
+      easyBoss:
+        bossHp: 50000
+        wave1:
+          atk: 100
+        wave2:
+          atk: 120
+        wave3:
+          atk: 140
+        wave4:
+          atk: 160
+      normalBoss:
+        bossHp: 70000
+        wave1:
+          atk: 200
+        wave2:
+          atk: 220
+        wave3:
+          atk: 240
+        wave4:
+          atk: 260
+      hardBoss:
+        bossHp: 95000
+        wave1:
+          atk: 300
+        wave2:
+          atk: 320
+        wave3:
+          atk: 340
+        wave4:
+          atk: 360
+      galaxyBoss:
+        bossHp: 225000
+        wave1:
+          atk: 400
+        wave2:
+          atk: 420
+        wave3:
+          atk: 440
+        wave4:
+          atk: 460
+  - stageNum: 2
+    easy:
+      enemy:
+      - enemyID: Enemy1
+        atk: 50
+      - enemyID: Enemy2
+        atk: 60
+    normal:
+      enemy:
+      - enemyID: Enemy1
+        atk: 100
+      - enemyID: Enemy2
+        atk: 110
+    hard:
+      enemy:
+      - enemyID: Enemy1
+        atk: 150
+      - enemyID: Enemy2
+        atk: 160
+    galaxy:
+      enemy:
+      - enemyID: Enemy1
+        atk: 200
+      - enemyID: Enemy2
+        atk: 210
+    boss:
+      easyBoss:
+        bossHp: 60000
+        wave1:
+          atk: 110
+        wave2:
+          atk: 130
+        wave3:
+          atk: 150
+        wave4:
+          atk: 170
+      normalBoss:
+        bossHp: 80000
+        wave1:
+          atk: 210
+        wave2:
+          atk: 230
+        wave3:
+          atk: 250
+        wave4:
+          atk: 270
+      hardBoss:
+        bossHp: 110000
+        wave1:
+          atk: 310
+        wave2:
+          atk: 330
+        wave3:
+          atk: 350
+        wave4:
+          atk: 370
+      galaxyBoss:
+        bossHp: 270000
+        wave1:
+          atk: 410
+        wave2:
+          atk: 430
+        wave3:
+          atk: 450
+        wave4:
+          atk: 470

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9769b9faa3927f044939d66d7208fd11, type: 3}
+  m_Name: PlayerParam
+  m_EditorClassIdentifier: 
+  character:
+  - charaName: CharaA
+    easy:
+      singleAttack: 200
+      lightAttack: 250
+      heavyAttack: 300
+    normal:
+      singleAttack: 240
+      lightAttack: 300
+      heavyAttack: 360
+    hard:
+      singleAttack: 288
+      lightAttack: 360
+      heavyAttack: 432
+    galaxy:
+      singleAttack: 0
+      lightAttack: 0
+      heavyAttack: 0
+  - charaName: CharaB
+    easy:
+      singleAttack: 100
+      lightAttack: 150
+      heavyAttack: 200
+    normal:
+      singleAttack: 120
+      lightAttack: 180
+      heavyAttack: 240
+    hard:
+      singleAttack: 144
+      lightAttack: 216
+      heavyAttack: 288
+    galaxy:
+      singleAttack: 0
+      lightAttack: 0
+      heavyAttack: 0

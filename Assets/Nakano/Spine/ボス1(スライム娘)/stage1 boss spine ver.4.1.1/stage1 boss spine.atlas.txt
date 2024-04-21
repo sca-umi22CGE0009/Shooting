@@ -1,0 +1,116 @@
+stage1 boss spine.png
+size:2001,2033
+filter:Linear,Linear
+pma:true
+scale:0.5
+ahoge left
+bounds:1388,1137,305,414
+ahoge right
+bounds:1388,721,305,414
+angry eyebrow
+bounds:1948,1864,167,25
+rotate:90
+back hand left
+bounds:1740,544,140,183
+back hand right
+bounds:1710,286,140,183
+back hear
+bounds:1388,1553,558,478
+backfist hand left
+bounds:1836,120,164,146
+rotate:90
+backfist hand right
+bounds:1852,378,164,146
+rotate:90
+chest
+bounds:1695,1151,400,251
+rotate:90
+close eye left
+bounds:1852,337,94,39
+offsets:1,0,95,39
+close eye right
+bounds:1536,33,95,39
+close mouse
+bounds:1710,272,69,12
+downcast eye left
+bounds:1882,579,127,86
+rotate:90
+downcast right
+bounds:1836,32,127,86
+earring left
+bounds:1975,1975,24,56
+earring right
+bounds:1308,723,25,56
+earrings
+bounds:821,19,356,56
+rotate:90
+face
+bounds:864,392,442,387
+fist hand left
+bounds:1209,2,150,177
+rotate:90
+fist hand right
+bounds:1684,95,150,175
+front hear
+bounds:1495,471,248,243
+rotate:90
+heart
+bounds:1740,471,71,71
+offsets:0,0,71,72
+left arm down
+bounds:879,137,163,253
+left arm up
+bounds:1695,834,185,315
+lower body
+bounds:2,377,402,860
+rotate:90
+normal eye left
+bounds:1882,810,117,100
+normal eye right
+bounds:1882,708,117,100
+normal hand left
+bounds:1388,7,146,196
+normal hand right
+bounds:1536,74,146,196
+nose
+bounds:2,2,5,6
+offsets:0,0,6,6
+rotate:90
+open hand left
+bounds:1358,205,174,197
+open hand right
+bounds:1534,272,174,197
+open mouse1
+bounds:1847,763,69,33
+rotate:90
+open mouse2
+bounds:1852,298,86,37
+right arm down
+bounds:1044,137,163,253
+right arm up
+bounds:1308,404,185,315
+side hear
+bounds:549,25,350,270
+rotate:90
+slime
+bounds:2,781,1384,1250
+small slime1
+bounds:1137,26,70,109
+small slime2
+bounds:1695,729,103,150
+offsets:0,1,103,151
+rotate:90
+small slime3
+bounds:879,15,120,256
+rotate:90
+sweat
+bounds:1495,438,16,31
+tiara
+bounds:1209,154,236,147
+rotate:90
+troubl eyebrow
+bounds:1882,912,237,57
+rotate:90
+upper body
+bounds:2,9,366,545
+rotate:90

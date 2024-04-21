@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/oyama/Scene/01_TitleScene.unity
+    guid: 71af86c08aa6bd9499f5a9829dc50fc4
+  - enabled: 1
+    path: Assets/Goto/Scenes/02_CharacterSelect.unity
+    guid: 1262f5298e525ee44aa21f7bdd0fbf39
+  - enabled: 1
+    path: Assets/Sasaki/Scenes/ResultScene.unity
+    guid: 079505c4e21e6554cb9c759346140dbf
+  - enabled: 1
+    path: Assets/Hatakeyama/Scene/Player.unity
+    guid: dfbe38121064d094e9feab76e6776070
+  - enabled: 1
+    path: Assets/Nakano/Scenes/Normal/Stage1-Normal.unity
+    guid: 4d96230c21792cb4183882cabbf0ad46
+  - enabled: 1
+    path: Assets/Nakano/Scenes/Hard/Stage1-Hard.unity
+    guid: 80cc091b64566d34e84b28bd8b40eb0b
+  - enabled: 1
+    path: Assets/Nakano/Scenes/Normal/Stage2-Normal.unity
+    guid: 58d23286a98d7364eafbc5385991afd3
+  - enabled: 1
+    path: Assets/Nakano/Scenes/Hard/Stage2-Hard.unity
+    guid: 0b2944f8c09308e41bbddaf59664de52
+  - enabled: 1
+    path: Assets/Minegishi/Scenes/SoundScene.unity
+    guid: ad0baddc1fa386f478c6247d989cf25d
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: f7b72f9d20e84b24db79920ef1569c9b,
+      type: 2}

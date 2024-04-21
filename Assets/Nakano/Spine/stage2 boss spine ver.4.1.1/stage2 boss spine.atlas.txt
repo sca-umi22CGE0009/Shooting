@@ -1,0 +1,122 @@
+stage2 boss spine.png
+size:2266,2507
+filter:Linear,Linear
+pma:true
+scale:0.5
+arm down left
+bounds:2057,587,207,263
+arm down right
+bounds:1712,50,207,263
+rotate:90
+arm up left
+bounds:2075,1195,169,314
+offsets:1,0,170,315
+arm up right
+bounds:1557,1159,171,314
+offsets:0,1,172,316
+back hear
+bounds:1274,2029,613,476
+bady
+bounds:2,41,924,1158
+base front hear
+bounds:1493,184,353,217
+rotate:90
+close eye
+bounds:928,45,284,39
+offsets:0,1,285,41
+close mouse
+bounds:2254,535,50,10
+offsets:1,0,52,11
+rotate:90
+elbow left
+bounds:2075,1120,77,73
+offsets:0,0,78,73
+elbow right
+bounds:2164,909,77,73
+offsets:1,0,78,73
+eyebrows
+bounds:2,10,272,29
+offsets:0,0,273,29
+face
+bounds:928,86,417,383
+offsets:0,0,417,384
+rotate:90
+front hear
+bounds:1977,103,176,264
+rotate:90
+fur arm down left
+bounds:1274,1152,281,304
+fur arm down right
+bounds:1969,281,283,304
+fur arm up left
+bounds:1274,1458,279,569
+fur arm up right
+bounds:1555,1475,273,552
+fur back
+bounds:2,1201,1270,1304
+fur ear left
+bounds:1493,2,180,153
+rotate:90
+fur ear right
+bounds:1566,613,179,153
+offsets:0,0,180,153
+rotate:90
+fur top back
+bounds:928,505,694,295
+rotate:90
+half eye
+bounds:2202,2183,322,53
+offsets:1,0,324,53
+rotate:90
+hand1 left
+bounds:1721,595,255,334
+rotate:90
+hand1 right
+bounds:1712,259,255,334
+hand2 left
+bounds:1225,794,343,356
+offsets:0,0,343,357
+hand2 right
+bounds:1730,1107,343,356
+offsets:0,0,343,357
+leg back left
+bounds:1225,539,339,253
+leg back right
+bounds:1721,852,339,253
+loincloth
+bounds:1889,1954,244,551
+necklace
+bounds:2135,1968,85,210
+normal eye
+bounds:2135,2180,325,65
+rotate:90
+nose
+bounds:1969,587,6,14
+offsets:1,1,7,16
+rotate:90
+open mouse1
+bounds:1566,584,94,27
+open mouse2
+bounds:1225,517,77,20
+side back hear left
+bounds:1313,96,178,441
+side back hear right
+bounds:2062,1511,178,441
+side front hear left
+bounds:2062,855,100,250
+offsets:8,0,108,250
+side front hear right
+bounds:1977,2,99,250
+rotate:90
+sweat
+bounds:1830,1987,16,40
+top fur front
+bounds:1830,1465,487,230
+offsets:0,1,487,231
+rotate:90
+waist ornament1
+bounds:1570,814,343,149
+rotate:90
+waist ornament2
+bounds:2164,984,94,209
+offsets:0,0,94,210

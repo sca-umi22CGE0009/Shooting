@@ -1,0 +1,91 @@
+mine character ２spine.png
+size:2016,1845
+filter:Linear,Linear
+pma:true
+scale:0.5
+back hear
+bounds:2,453,688,624
+rotate:90
+big ribbon1
+bounds:1649,190,206,238
+big ribbon2
+bounds:1542,1507,336,458
+rotate:90
+big ribbon3
+bounds:652,1193,426,650
+face
+bounds:657,8,506,466
+left arm down
+bounds:1432,1259,227,186
+rotate:90
+left arm up
+bounds:1254,1626,159,217
+left hand
+bounds:1432,1488,117,101
+rotate:90
+left hear ribbon back
+bounds:1080,1193,62,166
+rotate:90
+left hear ribbon front
+bounds:1530,707,109,274
+left leg down
+bounds:1056,605,172,586
+left pants back
+bounds:1542,430,207,389
+rotate:90
+left shoulder strap
+bounds:1416,1726,120,117
+left side hear
+bounds:1617,983,260,391
+rotate:90
+left wing
+bounds:2,10,441,653
+rotate:90
+lower body
+bounds:1265,487,275,166
+offsets:1,0,276,166
+right arm down
+bounds:1722,2,227,186
+right arm up
+bounds:1254,1407,159,217
+right hand
+bounds:1530,1107,150,85
+rotate:90
+right hear ribbon back
+bounds:1248,1193,62,166
+rotate:90
+right hear ribbon front
+bounds:1538,154,109,274
+right leg down
+bounds:1080,1257,172,586
+right pants back
+bounds:1329,127,207,358
+right shoulder strap
+bounds:1416,1607,120,117
+right side hear
+bounds:1620,1245,260,394
+rotate:90
+right wing
+bounds:628,476,426,665
+sword
+bounds:2,1143,648,700
+offsets:0,0,648,701
+sword ribbon left
+bounds:1545,3,149,175
+rotate:90
+sword ribbon right
+bounds:1254,1258,176,147
+offsets:0,1,176,148
+sword ribbon string 1
+bounds:1641,639,364,342
+sword ribbon string 2
+bounds:1165,16,162,463
+sword stone
+bounds:1416,1205,50,51
+sword wing left
+bounds:1056,481,122,207
+rotate:90
+sword wing rught
+bounds:1329,13,214,112
+upper body
+bounds:1230,655,298,536

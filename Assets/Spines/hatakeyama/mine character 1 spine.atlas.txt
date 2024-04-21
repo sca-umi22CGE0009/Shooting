@@ -1,0 +1,68 @@
+mine character 1 spine.png
+size:3914,3859
+filter:Linear,Linear
+pma:true
+arm left
+bounds:3152,2952,905,760
+offsets:2,2,909,763
+rotate:90
+arm right
+bounds:2252,12,900,763
+body
+bounds:3161,1675,543,928
+offsets:2,1,546,930
+cane body
+bounds:1095,2,773,1155
+offsets:2,1,778,1158
+rotate:90
+cane ribonn left
+bounds:3154,64,312,327
+offsets:2,1,315,330
+cane ribonn right
+bounds:3369,501,307,352
+offsets:2,2,311,356
+cane wing left
+bounds:2884,867,700,337
+offsets:2,2,703,341
+rotate:90
+cane wing right
+bounds:3152,2605,345,694
+offsets:2,1,349,697
+rotate:90
+head
+bounds:2,8,1091,1083
+offsets:2,2,1095,1086
+hear accessories
+bounds:3223,855,243,456
+offsets:2,2,247,460
+rotate:90
+hip
+bounds:3223,1100,573,401
+offsets:2,2,577,404
+rotate:90
+jacket 1
+bounds:3626,1105,568,245
+rotate:90
+jacket 2
+bounds:2845,1569,947,314
+rotate:90
+leg left
+bounds:1254,1147,368,1628
+offsets:2,3,372,1633
+rotate:90
+leg right
+bounds:1254,777,368,1628
+offsets:2,3,372,1633
+rotate:90
+nape left
+bounds:3706,2075,190,528
+offsets:2,428,2465,957
+nape right
+bounds:3154,393,213,460
+offsets:2,2,217,464
+side tall
+bounds:2,1093,1250,2764
+skirt
+bounds:1254,1517,1589,999
+wing
+bounds:1254,2518,1896,1339
